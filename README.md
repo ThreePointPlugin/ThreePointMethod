@@ -17,4 +17,4 @@ In the <i>Output File</i> section, select the location for the point shapefile f
 
 
 
-*<i>Both Input File and Input DEM</i> have to use a projected coordinate system, such as UTM.</i>
+*<i>Both Input File and Input DEM have to use a projected coordinate system, such as UTM.</i>
