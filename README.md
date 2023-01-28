@@ -13,7 +13,7 @@ The file should be a raster in a TIFF format and have a .tif extension.
 
 In the <i>Output File</i> section, select the location for the point shapefile file with the output data. 
 
-<img width="396" alt="image" src="https://user-images.githubusercontent.com/79970081/210069141-183514b5-92f3-4451-80a8-ab4b36a3974e.png">
+<img width="396" alt="image" src="https://user-images.githubusercontent.com/79970081/215275989-19c5e781-1fa2-47e2-a34f-184eeb83f0c3.png">
 
 
 
