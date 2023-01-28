@@ -15,9 +15,9 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview3642"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     
+     
+     
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
@@ -39,19 +39,20 @@
   <defs
      id="defs3637" />
   <g
+     fill="param(fill) " stroke="none" 
      inkscape:label="Warstwa 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-124.35813,-118.6027)">
     <text
        transform="rotate(0.04616631)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0034px;font-family:geo;-inkscape-font-specification:PIG;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.928813;image-rendering:auto"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0034px;font-family:geo;-inkscape-font-specification:PIG;writing-mode:lr-tb;image-rendering:auto"
        id="text2694"
        x="124.34266"
        y="122.60412"><tspan
          x="124.34266"
          y="122.60412"
          id="tspan2692"
-         style="stroke-width:0.928813">U</tspan></text>
+         >U</tspan></text>
   </g>
 </svg>

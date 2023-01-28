@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/plugins/three_point" >
+    <qresource prefix="/plugins/ThreePointMethod" >
         <file>icon.png</file>
     </qresource>
 </RCC>

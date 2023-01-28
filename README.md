@@ -8,7 +8,7 @@ In the <i>Input File</i>* section, insert a shapefile with three points that bel
 The points must be one after the other. 
 The number of threes is not limited.
 
-In the <i>Input DEM</i>* section, insert a Digital Elevation Model covering the area of the indicated triples. 
+In the <i>Input DEM</i>* section, insert a Digital Terrain Model covering the area of the indicated triples. 
 The file should be a raster in a TIFF format and have a .tif extension. 
 
 In the <i>Output File</i> section, select the location for the point shapefile file with the output data. 
@@ -17,4 +17,4 @@ In the <i>Output File</i> section, select the location for the point shapefile f
 
 
 
-*<i>Both Input File and Input DEM have to use a projected coordinate system, such as UTM.</i>
+*<i>Both Input File and Input DEM</i> have to use a projected coordinate system, such as UTM.
