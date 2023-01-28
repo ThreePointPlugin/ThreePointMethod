@@ -1,4 +1,4 @@
-<b>ThreePoint Plugin</b>
+<b>ThreePointMethod Plugin</b>
 
 
 <p>The plugin calculates a plane's strike, dip and dip direction using the three-point vector method. 
