@@ -11,7 +11,7 @@ The number of threes is not limited.
 In the <i> Input DEM</i>* section, insert a Digital Terrain Model covering the area of the indicated triples. 
 The file should be a raster in a TIFF format and have a .tif extension. 
 
-In the <i>Output File</i> section, select the location for the point shapefile file with the output data. 
+In the <i>Output File</i> section, select the location for the point SHP with the output data. 
 
 <img width="396" alt="image" src="https://user-images.githubusercontent.com/79970081/215275989-19c5e781-1fa2-47e2-a34f-184eeb83f0c3.png">
 
